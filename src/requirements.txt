@@ -52,7 +52,7 @@ pip==23.0
 pixel-ring==0.1.0
 proto-plus==1.20.3
 protobuf==3.19.4
-pvporcupine==2.1.2
+pvporcupine==2.2
 pyalsaaudio==0.9.2
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
